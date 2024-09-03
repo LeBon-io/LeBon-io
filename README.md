@@ -1,8 +1,8 @@
-- 👋 Holla , I’m @LeBon-io
+- 👋 Holla , I’m Lebon KWizera
 - 👀 I’m interested in full stack dev 
 - 🌱 I’m currently learning backend development while on html,css and javascript 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me , on twitter and linkedin 
+- 💞️ I’m looking to collaborate on expert in this field  
+- 📫 How to reach me , on twitter and linkedin , links in bio 
 - ⚡ Fun fact: , am pool person and basketball player fell free to reach me out 
 
 <!---
